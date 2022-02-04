@@ -11,6 +11,12 @@ Date: 3/02/22
 
 ## File Directory
 
+• <b>Problem Set 1 Brief.pdf</b> Questions and instructions for problem set 1 </b>
+
+• <b>Problem Set 2 Brief.pdf</b> Questions and instructions for problem set 2 </b>
+
+• <b>Project Brief.pdf</b> Questions and instructions for project </b>
+
 • <b>ECON2209 Problem Set 1.pdf</b> This file contains the final copy of the first problem set in business forecasting </b>
 
 • <b>ECON2209 Problem Set 1 Code.R</b> This file contains the R code for Problem Set 1 </b>
